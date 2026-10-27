@@ -36,11 +36,11 @@ a:hover { color: #E2373E;}
 .bbs_img h4 { position: absolute; width: 100%; margin: 0; padding: 8px 12px; text-align: center; bottom: 0; background-color: rgba(0,0,0, 0.75); color: #fff; font-size: 16px; border-radius:0 0 30px 30px; }
 .bbs_list li { border-bottom: 1px #ccc dotted; padding: 4px 0; }
 
-.main01 { background-image: url(/img/01_bg.png), linear-gradient(180deg, #A24145 0%, #E2383F 100%); }
+.main01 { background-image: url(img/01_bg.png), linear-gradient(180deg, #A24145 0%, #E2383F 100%); }
 .main02, .main03, .main04 { padding: 24px 0;}
 .main02 { background: linear-gradient(180deg, #D7D7D7 0%, #E6E6E6 49.04%, #F6F6F6 100%); }
 .main03 { 
-  background-image: url(/img/03_bg2.png), url(/img/03_bg1.png);
+  background-image: url(img/03_bg2.png), url(img/03_bg1.png);
   background-size: cover, auto;
   background-repeat: no-repeat, repeat;
   background-position: center center, center; 
@@ -63,7 +63,7 @@ a:hover { color: #E2373E;}
 #main_banner .carousel-control-next { width: 30px; color: #333; font-size: 24px;}
 
 .poster {     
-  background: url(/img/03_poster_bg.jpg) center no-repeat;  background-size: 100% 100%;  padding: 13% 13%;  width: 80%;  margin: 0 auto; 
+  background: url(img/03_poster_bg.jpg) center no-repeat;  background-size: 100% 100%;  padding: 13% 13%;  width: 80%;  margin: 0 auto; 
 }
 .poster img { width: 100%; }
 
